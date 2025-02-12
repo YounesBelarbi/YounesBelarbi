@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Younes Belarbi</h1>
 <h3 align="center">A passionate developer</h3>
-<!--
-- 🔭 I’m currently working on E-shopper  [https://github.com/YounesBelarbi/E-shopper](https://github.com/YounesBelarbi/E-shopper)
 
-- 🌱 I’m currently learning **ReactJs**
--->
 - 👨‍💻 All of my projects are available at [https://github.com/YounesBelarbi](https://github.com/YounesBelarbi)
 
 - 📫 How to reach me **ybelarbi.dev@gmail.com**
